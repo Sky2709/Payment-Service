@@ -32,7 +32,7 @@ The Payment Service is a backend application built using Spring Boot, providing 
 
 
 **Usage Instructions**
-* Initiate Payment:Use the endpoint: 
+* Initiate Payment:Use the endpoint:
   `POST /payments/`
   Request Body:
   `{
@@ -70,5 +70,3 @@ This project is licensed under the MIT License.
 * Add support for more payment gateways such as Stripe.
 * Enhance webhook handling for various event types.
 * Implement payment validation and reconciliation.
-
-
